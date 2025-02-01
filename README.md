@@ -4,15 +4,15 @@
 
 ---
 
-- hello world!
-    - hello world!
-        - hello world!
+- Hello world!
+    - Hello world!
+        - Hello world!
 
 ---
 
-`print("hello world")`
+`print("Hello world!")`
 
 ```py
 print("Hello world!")
-# hello world
+# Hello world!
 ```
