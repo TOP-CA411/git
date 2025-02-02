@@ -9,6 +9,10 @@
 
      ---
 
-     'print("Hello world!")'
+     `print("Hello world!")`
 
      ---
+
+    ```py
+    print("Hello world!")
+    ```
