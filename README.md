@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Hello World! Text
-=======
 # Hello World! I am there!
->>>>>>> new
 ## Hello World!
 ### Hello World!
 
