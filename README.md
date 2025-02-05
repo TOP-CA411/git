@@ -13,5 +13,5 @@
 
 ---py
 print("Hello world!")
-# Hsello world
+# Hello world
 ---
