@@ -3,15 +3,15 @@
         ### Hello World!
 
 --- 
-- hello world!
-    - hello world!
-        - hello world!
+- Hello world!
+    - Hello world!
+        - Hello world!
 
 ---
 
-'print("hello worid")'
+'print("Hello worid!")'
 
 ---py
-print("hello world)
-# hello world
+print("Hello world!")
+# Hsello world
 ---
