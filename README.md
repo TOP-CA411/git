@@ -12,4 +12,4 @@
      'print("Hello world!")'
 
      ---
-It's good day today! Really?
+It's a good day today! Really?
