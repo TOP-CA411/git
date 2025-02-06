@@ -9,7 +9,11 @@
 
      ---
 
-     'print("Hello world!")'
+     `print("Hello world!")`
 
      ---
-It's a good day today! Really?
+
+    ```py
+    print("Hello world!")
+    ```
+It's a good day today!
