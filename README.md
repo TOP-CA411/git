@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# Hello World! Text
-=======
 # Hello World! I am there!
->>>>>>> new
-## Hello World!
+## Hello World! Дата сегодня 07.02.2025г.
 ### Hello World!
 
 ---
