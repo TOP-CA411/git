@@ -18,4 +18,3 @@ print("Hello world!")
 ```
 
 # Привет
-### Hello
