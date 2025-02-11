@@ -2,4 +2,3 @@
 - cat
 - dog
 - yenot
-- bear
